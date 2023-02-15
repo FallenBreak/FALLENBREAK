@@ -10,12 +10,12 @@
 <a href="https://www.mongodb.com"> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB"> </a>
 
 
-
 ### 👨‍💻 Server operating systems 
 <a href="https://www.debian.org"> <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=Linux"> </a>
 
 ### 👨‍🎓 Currently learning
 <a href="https://www.typescriptlang.org/"> <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript"> </a>
+<a href="https://reactjs.org/"> <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=React"> </a>
 
 
 ### 📱 Contact
