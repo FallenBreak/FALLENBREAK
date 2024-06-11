@@ -19,5 +19,5 @@
 
 
 ### 📱 Contact
-<a href="https://twitter.com/realFallenBreak"> <img alt="Twitter" src="https://img.shields.io/badge/-realFallenBreak-000?&logo=Twitter"> </a>
-<a href="https://www.discordapp.com"> <img alt="Discord" src="https://img.shields.io/badge/-FallenBreak%233104-000?&logo=Discord"> </a>
+<a href="https://x.com/realFallenBreak"> <img alt="X" src="https://img.shields.io/badge/-realFallenBreak-000?&logo=Twitter"> </a>
+<a href="https://www.discordapp.com"> <img alt="Discord" src="https://img.shields.io/badge/-realFallenBreak-000?&logo=Discord"> </a>
